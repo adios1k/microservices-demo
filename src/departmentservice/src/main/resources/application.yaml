@@ -25,4 +25,4 @@ management:
     enable:
       all: true
     tags:
-      application: employeeservice
+      application: departmentservice
